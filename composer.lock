@@ -412,7 +412,7 @@
         },
         {
             "name": "illuminate/view",
-            "version": "v7.10.1",
+            "version": "v7.30.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/illuminate/view.git",
